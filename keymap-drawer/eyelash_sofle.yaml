@@ -13,7 +13,7 @@ layers:
   - {t: '8', s: '*'}
   - {t: '9', s: (}
   - {t: '0', s: )}
-  - {t: \, h: '|', s: '|'}
+  - {t: '=', h: +, s: +}
   - {t: '`', h: '~', s: '~'}
   - Q
   - W
@@ -26,7 +26,7 @@ layers:
   - I
   - O
   - P
-  - {t: '=', h: +, s: +}
+  - {t: '-', h: _, s: _}
   - $$mdi:apple-keyboard-caps$$
   - {t: A, s: '$$mdi:apple-keyboard-command$$'}
   - {t: S, s: '$$mdi:apple-keyboard-option$$'}
@@ -38,7 +38,7 @@ layers:
   - {t: J, s: '$$mdi:apple-keyboard-shift$$'}
   - {t: K, s: '$$mdi:apple-keyboard-control$$'}
   - {t: L, s: '$$mdi:apple-keyboard-option$$'}
-  - {t: ;, h: ':', s: ':'}
+  - {t: ;, h: RIGHT GUI, s: ':'}
   - {t: '''', h: '"', s: '"'}
   - $$mdi:apple-keyboard-shift$$
   - Z
